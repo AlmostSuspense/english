@@ -1,1 +1,1 @@
-[Commencer](/#/?id=cours)
+[Commencer](home.md)
