@@ -1,2 +1,3 @@
 # **Cours**
-[test](test.md)
+[Comparative](/courses/comparative.md)
+[Superlative](/courses/superlative.md)
