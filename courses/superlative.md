@@ -21,5 +21,5 @@ Si le mot se termine déjà par un E, on ajoute juste "st".
 
 !> **Irréguliers**
 Comme toujours, certains mots sont irréguliers:
-- far (loin) → the farthest
-- good (bien) → the best
+!> - far (loin) → the farthest
+!> - good (bien) → the best
