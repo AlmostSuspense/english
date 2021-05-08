@@ -1,4 +1,1 @@
-# wip {docsify-ignore-all}
----
-
-olalala mais c'est pog ca
+les cours sont sur la gauche lol 
