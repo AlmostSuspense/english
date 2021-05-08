@@ -20,6 +20,6 @@ Si il y en a pas, on ajoute juste la terminaison:
 Si le mot se termine déjà par un E, on ajoute juste "st". 
 
 !> **Irréguliers**
-Comme toujours, certains mots sont irréguliers:
-!> - far (loin) → the farthest
-!> - good (bien) → the best
+Comme toujours, certains mots sont irréguliers:\
+far (loin) → the farthest\
+good (bien) → the best
