@@ -18,7 +18,7 @@ Pour les mots courts (d'une syllabe), on ajoute la terminaison `-est` à la fin 
 |-----------------------------------------------------------|:-----------------------------------------------:|:-----------------:|
 | C'est la plus grosse voiture que j'ai jamais vu.          | This is the **biggest** car I've ever seen.     | Oui               |
 | Riley est la personne la plus mignonne que je connaisse.  | Riley is the **cutest** person I know.          | Non               |
-| Riley est la personne la plus gentille que je connaisse.  | Riley is the **nicest*** person I know.          | Non               |
+| Riley est la personne la plus gentille que je connaisse.  | Riley is the **nicest**​* person I know.          | Non               |
 
 
 ?> *Si le mot se termine déjà par un E, on ajoute juste "st". 
