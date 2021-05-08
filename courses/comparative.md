@@ -1,10 +1,12 @@
 # Le comparatif en anglais
-Le comparatif, ça sert à comparer les "caractéristiques" de deux choses/personnes (= sujets). En français, on utilise "plus que" ou "plus <adjectif> que" pour comparer, ce qui donne: "Riley est plus belle que Cassy" ou "15 est plus éloigné de 0 que 20" (on adore les chiffres)
+Le comparatif, ça sert à comparer les "caractéristiques" de deux choses ou personnes (= sujets). En français, on utilise `plus que` ou `plus <adjectif> que` pour comparer deux choses. En anglais, c'est très similaire sauf que chaque adjectif à une forme comparative différente selon sa taille. 
 
-En anglais, c'est très similaire sauf que chaque adjectif à sa forme comparative. Les adjectifs courts (comme "strong" qui signifie "fort" ou "cute" qui signifie "mignon") vont utiliser la terminaison `-er` couplée au mot "than". 
-?> Pour dire que Riley est plus (+) mignonne que Cassy, on va dire "Riley is cut**er than** Cassy"
+### Adjectifs Courts
+Les adjectifs courts, c'est ceux qui font une syllabe ou ceux qui en font deux mais que la deuxième se termine par `-ow` ou `-y`(ex: pretty, narrow). Leur forme comparative utilise la terminaison `-er` couplée au mot "than". Pour dire que Riley est plus (+) mignonne que Cassy, on va dire "Riley is cut**er than** Cassy"
 
-Pour les adjectifs longs, la terminaison `-er` ne sonne pas bien, donc on va utiliser une autre formule: "more than". C'est la traduction littérale de "plus que" en français. 
+### Adjectifs Longs
+Pour les autres adjectifs qui ne rentrent pas dans la catégorie susmentionée, on va utiliser la formule `more than` qui est la traduction littérale de "plus que" en français.
+
 
 ### Exemples
 - Si on souhaite dire que Riley est plus belle (beautiful) que Cassy, on dira "Riley is **more** beautiful **than** Cassy"
@@ -12,10 +14,21 @@ Pour les adjectifs longs, la terminaison `-er` ne sonne pas bien, donc on va uti
 
 > On peut également remplacer "more" par "less" si on souhaite dire "moins que". 
 
+| Adjectif                                             | Groupe         | Pourquoi?                              |
+|------------------------------------------------------|:--------------:|:--------------------------------------:|
+| Cute (mignon)                                        | Adj. Courts    | Une syllabe                            |
+| Narrow (étroit)                                      | Adj. Courts    | Deux syllabes mais se termine en `-ow` |
+| Beautiful (beau/belle)                               | Adj. Longs     | Trois syllabes                         |
+| Attractive (attractif/ve)                            | Adj. Longs     | Trois syllabes                         |
+
+
+
 ### Si les 2 valeurs sont égales
-Si tu compares deux choses qui sont pareilles, tu ne peux pas utiliser "more than" puisque les deux valeurs sont égales. Dans ce cas là, on utilise "as much as" ou "as <adjectif> as": 
-Si on souhaite dire que Riley est aussi belle que Cassy: on dira "Riley is as beautiful as Cassy".
+Si on compare deux choses qui sont pareilles, on ne peut pas utiliser "more than" puisque les deux valeurs sont égales. Dans ce cas là, on utilise "as much as" ou "as <adjectif> as": 
+- Si on souhaite dire que Riley est aussi belle que Cassy, on dira "Riley is as beautiful as Cassy".
 
 !> **Irréguliers**:\
-Pour certains adjectifs irréguliers, aucune des deux formes au dessus n'est correcte:\
-Pour dire que Riley est meilleure au football que moi, on dira "Riley is better at football than I am."
+Pour certains adjectifs irréguliers, aucune des deux formes au dessus ne peut être appliquée:\
+good → better
+bad → worse
+Non exaustif.
